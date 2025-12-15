@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Waltteri and I study Business Information Technology at Satakunta University of Applied Sciences. 
+I'm Waltteri and I'm studying Business Information Technology at Satakunta University of Applied Sciences. 
 
 I am interested in software development as a whole, from frontend to backend. and working towards a career in the field! 
 
