@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋
+
+Im Waltteri and I study Business Information Technology at Satakunta University of Applied Sciences. 
+I’m interested in software development and working towards a career in the field ! 
 
 <!--
 **waltterir/waltterir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
