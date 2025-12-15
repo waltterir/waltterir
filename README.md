@@ -1,6 +1,7 @@
 ## Hi 👋
 
 Im Waltteri and I study Business Information Technology at Satakunta University of Applied Sciences. 
+
 I’m interested in software development and working towards a career in the field ! 
 
 <!--
