@@ -1,4 +1,4 @@
-## Hi 👋
+## Haye 👋
 
 I'm Waltteri and I'm studying Business Information Technology at Satakunta University of Applied Sciences. 
 
