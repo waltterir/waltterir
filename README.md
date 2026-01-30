@@ -2,7 +2,7 @@
 
 I'm Waltteri, a second-year Business Information Technology student at Satakunta University of Applied Sciences.
 
-I'm interested in software development end-to-end — from frontend to backend — and I'm working toward a professional career in the field.
+I'm interested in software development from frontend to backend — and I'm working toward a professional career in the field.
 
 I’m currently learning TypeScript and modern web development tools. I improve my skills through hands-on practice and personal projects.
 
@@ -17,6 +17,7 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 - JavaScript
 - REST APIs
 - Modern frontend tooling
+- Vite 
 
 ---
 
@@ -26,3 +27,4 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 - Component architecture & state management
 - Full-stack fundamentals
 - Building portfolio-quality projects
+- MongoDB and NoSQL databases (coursework)
