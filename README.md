@@ -1,8 +1,7 @@
 ## Hey👋
 
-I'm Waltteri and I'm studying Business Information Technology at Satakunta University of Applied Sciences. 
-
-I am interested in software development as a whole, from frontend to backend, and working towards a career in the field! 
+I'm Waltteri, a second-year student studying Business Information Techology at Satakunta University of Applied Sciences.
+I'm interested in software development as a whole — from frontend to backend — and I'm working toward a career in the field.
 
 <!--
 **waltterir/waltterir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
