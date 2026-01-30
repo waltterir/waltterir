@@ -1,21 +1,28 @@
-## Hey👋
+## Hey 👋
 
-I'm Waltteri, a second-year student studying Business Information Technology at Satakunta University of Applied Sciences.
+I'm Waltteri, a second-year Business Information Technology student at Satakunta University of Applied Sciences.
 
-I'm interested in software development as a whole — from frontend to backend — and I'm working toward a career in the field.
+I'm interested in software development end-to-end — from frontend to backend — and I'm working toward a professional career in the field.
 
-I’m currently learning TypeScript and getting familiar with different frameworks and modern development tools. I enjoy exploring new technologies and improving my skills through hands-on practice and personal projects.
-<!--
-**waltterir/waltterir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning TypeScript and modern web development tools. I improve my skills through hands-on practice and personal projects.
 
-Here are some ideas to get you started:
+Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, and Astro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech I work with
+
+- React
+- TypeScript (learning & actively using)
+- JavaScript
+- REST APIs
+- Modern frontend tooling
+
+---
+
+## 📚 Currently focused on
+
+- Stronger TypeScript skills
+- Component architecture & state management
+- Full-stack fundamentals
+- Building portfolio-quality projects
