@@ -4,8 +4,7 @@ I'm Waltteri, a second-year student studying Business Information Technology at 
 
 I'm interested in software development as a whole — from frontend to backend — and I'm working toward a career in the field.
 
-I'm currently learning TypeScript and getting familiar with different frameworks and modern development tools. I enjoy exploring new technologies and improving my skills through hands-on practice and personal projects.
-
+I’m currently learning TypeScript and getting familiar with different frameworks and modern development tools. I enjoy exploring new technologies and improving my skills through hands-on practice and personal projects.
 <!--
 **waltterir/waltterir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
