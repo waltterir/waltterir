@@ -22,8 +22,9 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 
 ## 📚 Currently focused on
 
-- Stronger TypeScript skills
+- Strengthening TypeScript skills
+- Frontend application development
 - Component architecture & state management
-- Full-stack fundamentals
 - Building portfolio-quality projects
-- MongoDB and NoSQL databases (coursework)
+- Full-stack fundamentals
+
