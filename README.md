@@ -15,7 +15,7 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 - React
 - TypeScript (learning & actively using)
 - JavaScript
-- REST APIs
+- REST API integration
 - Modern frontend tooling
 
 ---
