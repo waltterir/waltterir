@@ -17,7 +17,6 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 - JavaScript
 - REST APIs
 - Modern frontend tooling
-- Vite 
 
 ---
 
