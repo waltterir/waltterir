@@ -6,7 +6,8 @@ Interested in software development from frontend to backend — and working towa
 
 Currently learning TypeScript and modern web development tools. I improve my skills through hands-on practice and personal projects.
 
-Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, and Astro.
+Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, and Astro. 
+I’m currently exploring React Native and Next.js to expand my understanding of modern React-based and cross-platform development.
 
 ---
 
