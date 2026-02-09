@@ -14,7 +14,7 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 ## 🛠️ Tech I work with
 
 - React
-- TypeScript (learning & actively using)
+- TypeScript (actively using)
 - JavaScript
 - REST API integration
 - Modern frontend tooling
