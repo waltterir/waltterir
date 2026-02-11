@@ -6,7 +6,7 @@ Interested in building user-focused web applications with React and TypeScript, 
 
 Currently learning TypeScript and modern web development tools. I improve my skills through hands-on practice and personal projects.
 
-Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, and Astro. 
+I mainly focus on React and TypeScript, and have also experimented with other frontend frameworks
 
 
 ---
@@ -16,7 +16,7 @@ Alongside React, I’ve also explored frameworks such as Vue, Angular, Gatsby, a
 - React
 - TypeScript (actively using)
 - JavaScript
-- REST API integration
+- REST API integration (project experience)
 - Modern frontend tooling
 
 ---
