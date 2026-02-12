@@ -9,7 +9,7 @@ Interested in fullstack development and how systems work end-to-end.
 
 ## Featured Projects
 
-🔹 Smart Expense Splitter
+### 🔹 Smart Expense Splitter
 
 A React + TypeScript app for splitting expenses easily with a clean UI.
 
