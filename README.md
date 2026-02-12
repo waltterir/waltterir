@@ -23,7 +23,7 @@ Includes a live demo
 ### 🔹 Personal Finance Dashboard (WIP)
 A dashboard app for tracking transactions, budgets and monthly insights.
 
-👉 Coming soon
+👉 Repo: [Personal Finance Dashboard](https://github.com/waltterir/personal-finance-dashboard)
 
 ---
 
