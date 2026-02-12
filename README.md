@@ -10,6 +10,7 @@ Currently looking for a Frontend / Fullstack Engineering Internship (Summer 2026
 ---
 
 ## Featured Projects
+
 🔹 Smart Expense Splitter
 
 A React + TypeScript app for splitting expenses easily with a clean UI.
@@ -22,7 +23,7 @@ Includes a live demo
 
 ---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 Building scalable frontend applications with React
 
@@ -34,15 +35,14 @@ Full-stack fundamentals
 
 ---
 
-🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
-Frontend: React, TypeScript, TailwindCSS
-
-Tools: Git, Vite, Figma
+**Frontend:** React, TypeScript, TailwindCSS  
+**Tools:** Git, Vite, Figma  
 
 ---
 
-📫 Links
+## 📫 Links
 
 LinkedIn: www.linkedin.com/in/waltteri-riihimäki-ba0323364
 
@@ -51,6 +51,4 @@ Email: riihimakiwaltteri@gmail.com
 ---
 
 ✨ I enjoy building clean, user-focused products and learning how systems work end-to-end.
-
-
 
