@@ -1,31 +1,56 @@
-## Hey 👋
+## Hi, I'm Waltteri 👋
 
-I'm Waltteri, a second-year Business Information Technology student at Satakunta University of Applied Sciences.
+2nd year Business Information Technology student at Satakunta University of Applied Sciences
 
-Interested in building user-focused web applications with React and TypeScript, and learning how fullstack systems work in practice. — and working towards a professional career in the field.
+Passionate about building modern web applications with React + TypeScript
+Interested in fullstack development and how systems work end-to-end
 
-Currently learning TypeScript and modern web development tools. I improve my skills through hands-on practice and personal projects.
-
-I mainly focus on React and TypeScript, and have also experimented with other frontend frameworks
-
+Currently looking for a Frontend / Fullstack Engineering Internship (Summer 2026)
 
 ---
 
-## 🛠️ Tech I work with
+## Featured Projects
+🔹 Smart Expense Splitter
 
-- React
-- TypeScript (actively using)
-- JavaScript
-- REST API integration (project experience)
-- Modern frontend tooling
+A React + TypeScript app for splitting expenses easily with a clean UI.
+
+Built with Vite, TailwindCSS, LocalStorage
+
+Includes a live demo
+
+👉 Repo: https://github.com/waltterir/smart-expense-splitter
 
 ---
 
-## 📚 Currently focused on
+🌱 Currently Learning
 
-- Strengthening TypeScript skills
-- Frontend application development
-- Component architecture & state management
-- Building portfolio-quality projects
-- Full-stack fundamentals
+Building scalable frontend applications with React
+
+Improving TypeScript skills and clean code practices
+
+Designing user-friendly interfaces and product-focused features
+
+Full-stack fundamentals
+
+---
+
+🛠️ Tech Stack 
+
+Frontend: React, TypeScript, TailwindCSS
+
+Tools: Git, Vite, Figma
+
+---
+
+📫 Links
+
+LinkedIn: www.linkedin.com/in/waltteri-riihimäki-ba0323364
+
+Email: riihimakiwaltteri@gmail.com
+
+---
+
+✨ I enjoy building clean, user-focused products and learning how systems work end-to-end.
+
+
 
