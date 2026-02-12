@@ -17,7 +17,7 @@ Built with Vite, TailwindCSS, LocalStorage
 
 Includes a live demo
 
-👉 Repo: 👉 [Smart Expense Splitter](https://github.com/waltterir/smart-expense-splitter)
+👉 Repo: [Smart Expense Splitter](https://github.com/waltterir/smart-expense-splitter)
 
 
 ### 🔹 Personal Finance Dashboard (WIP)
@@ -35,7 +35,7 @@ Improving TypeScript skills and clean code practices
 
 Designing user-friendly interfaces and product-focused features
 
-Full-stack fundamentals
+Building full-stack fundamentals alongside my Personal Finance Dashboard project
 
 ---
 
@@ -48,7 +48,7 @@ Tools: Git, Vite, Figma
 
 ## 📫 Links
 
-LinkedIn: www.linkedin.com/in/waltteri-riihimäki-ba0323364
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/waltteri-riihimäki-ba0323364)
 
 Email: riihimakiwaltteri@gmail.com
 
