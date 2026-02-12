@@ -2,10 +2,8 @@
 
 2nd year Business Information Technology student at Satakunta University of Applied Sciences
 
-Passionate about building modern web applications with React + TypeScript
-Interested in fullstack development and how systems work end-to-end
-
-Currently looking for a Frontend / Fullstack Engineering Internship (Summer 2026)
+Passionate about building modern web applications with React + TypeScript.  
+Interested in fullstack development and how systems work end-to-end.
 
 ---
 
@@ -19,7 +17,13 @@ Built with Vite, TailwindCSS, LocalStorage
 
 Includes a live demo
 
-👉 Repo: https://github.com/waltterir/smart-expense-splitter
+👉 Repo: 👉 [Smart Expense Splitter](https://github.com/waltterir/smart-expense-splitter)
+
+
+### 🔹 Personal Finance Dashboard (WIP)
+A dashboard app for tracking transactions, budgets and monthly insights.
+
+👉 Coming soon
 
 ---
 
@@ -37,8 +41,8 @@ Full-stack fundamentals
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, TypeScript, TailwindCSS  
-**Tools:** Git, Vite, Figma  
+Frontend: React, TypeScript, TailwindCSS  
+Tools: Git, Vite, Figma  
 
 ---
 
@@ -50,5 +54,4 @@ Email: riihimakiwaltteri@gmail.com
 
 ---
 
-✨ I enjoy building clean, user-focused products and learning how systems work end-to-end.
 
