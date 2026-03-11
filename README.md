@@ -5,8 +5,6 @@
 Passionate about building modern web applications with React + TypeScript.  
 Interested in fullstack development and how systems work end-to-end.
 
----
-
 ## 🌱 Currently Learning
 
 Building scalable frontend applications with React
@@ -18,8 +16,6 @@ Designing user-friendly interfaces and product-focused features
 Learning backend fundamentals by building API endpoints with FastAPI (Python)
 
 Building full-stack fundamentals alongside my Personal Finance Dashboard project
-
----
 
 ## 🛠️ Tech Stack
 
@@ -37,14 +33,11 @@ Tools
 - Vite
 - Figma
 
----
-
 ## 📫 Links
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/waltteri-riihimäki-ba0323364)
 
 Email: riihimakiwaltteri@gmail.com
 
----
 
 
