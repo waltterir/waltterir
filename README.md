@@ -15,6 +15,8 @@ Improving TypeScript skills and clean code practices
 
 Designing user-friendly interfaces and product-focused features
 
+Learning backend fundamentals by building API endpoints with FastAPI (Python)
+
 Building full-stack fundamentals alongside my Personal Finance Dashboard project
 
 ---
