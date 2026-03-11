@@ -23,11 +23,19 @@ Building full-stack fundamentals alongside my Personal Finance Dashboard project
 
 ## 🛠️ Tech Stack
 
-Frontend: React, TypeScript, TailwindCSS  
+Frontend
+  - React
+  - TypeScript
+  - TailwindCSS
 
-Backend: FastAPI, Python
+Backend
+  - Python
+  - FastAPI
 
-Tools: Git, Vite, Figma  
+Tools
+- Git
+- Vite
+- Figma
 
 ---
 
