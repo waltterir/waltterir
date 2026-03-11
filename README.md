@@ -7,26 +7,6 @@ Interested in fullstack development and how systems work end-to-end.
 
 ---
 
-## Featured Projects
-
-### 🔹 Smart Expense Splitter
-
-A React + TypeScript app for splitting expenses easily with a clean UI.
-
-Built with Vite, TailwindCSS, LocalStorage
-
-Includes a live demo
-
-👉 Repo: [Smart Expense Splitter](https://github.com/waltterir/smart-expense-splitter)
-
-
-### 🔹 Personal Finance Dashboard (WIP)
-A dashboard app for tracking transactions, budgets and monthly insights.
-
-👉 Repo: [Personal Finance Dashboard](https://github.com/waltterir/personal-finance-dashboard)
-
----
-
 ## 🌱 Currently Learning
 
 Building scalable frontend applications with React
