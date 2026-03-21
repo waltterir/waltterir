@@ -28,4 +28,4 @@ Aspiring fullstack developer focused on React and FastAPI
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/waltteri-riihimäki-ba8323364
-- Email: riihimikwaltteri@gmail.com
+- Email: riihimakiwaltteri@gmail.com
