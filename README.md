@@ -2,7 +2,7 @@
 
 2nd year Business Information Technology student
 
-Backend-focused developer with a strong interest in building APIs and systems using FastAPI, while also open to frontend and fullstack development with React
+Backend-focused developer with a strong interest in building APIs and systems, while also open to frontend and fullstack development with React
 
 ## Currently
 - Building a Personal Finance Dashboard (React + TypeScript)
