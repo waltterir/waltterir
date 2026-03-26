@@ -5,10 +5,10 @@
 Backend-focused developer with a strong interest in building APIs and systems, while also open to frontend and fullstack development with React
 
 ## Currently
-- Building a Personal Finance Dashboard (React + TypeScript)
-- Building a REST API (FastAPI + SQLModel + SQLite)
-- Improving TypeScript and clean code practices
-
+- Building and deploying a REST API (FastAPI + SQLModel + SQLite)
+- Learning backend architecture and cloud deployment (GCP VM)
+- Finishing a Personal Finance Dashboard (React + TypeScript) — MVP nearly complete, planning fullstack version
+  
 ## Tech Stack
 
 **Frontend**
