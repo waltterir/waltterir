@@ -27,6 +27,7 @@ Backend-focused developer with a strong interest in building APIs and systems, w
 - Vite
 - Figma
 - Google Cloud (Compute Engine VM)
+- Docker
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/waltteri-riihimäki-ba8323364
