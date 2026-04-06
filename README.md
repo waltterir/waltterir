@@ -15,8 +15,9 @@ Backend-focused developer with a strong interest in building APIs and systems, w
 **Backend:**  Python, FastAPI, SQLModel, SQLite  
 **Tools:**  Git, Docker, GCP, Figma
 
+![GitHub Streak](https://streak-stats.demolab.com?user=waltterir&theme=tokyonight)
+
 ## Links
 - LinkedIn: https://www.linkedin.com/in/waltteri-riihimäki-ba8323364
 - Email: riihimakiwaltteri@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waltterir&show_icons=true&hide=prs,issues&theme=tokyonight)
