@@ -1,4 +1,4 @@
-# Hi, I'm Waltteri 👋
+# Hey, I'm Wate 👋
 
 2nd year Business Information Technology student
 Backend-focused developer building APIs and systems, with experience in React.
