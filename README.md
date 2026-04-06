@@ -1,7 +1,7 @@
 # Hey, I'm Wate 👋
 
-2nd year Business Information Technology student
-Backend-focused developer building APIs and systems, with experience in React.
+Backend-focused developer building APIs and systems.  
+2nd year Business Information Technology student.
 
 ## Currently
 - Building and deploying a REST API (FastAPI + SQLModel + SQLite) on GCP VM  
