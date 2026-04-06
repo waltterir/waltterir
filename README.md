@@ -11,9 +11,11 @@ Backend-focused developer with a strong interest in building APIs and systems, w
   
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+## Tech Stack
+
+**Frontend:** React, TypeScript, TailwindCSS  
+**Backend:** Python, FastAPI, SQLModel, SQLite  
+**Tools:** Git, Docker, GCP, Figma
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/waltteri-riihimäki-ba8323364
