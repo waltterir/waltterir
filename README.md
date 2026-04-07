@@ -1,12 +1,12 @@
 # Hey, I'm Wate 👋
 
-Backend-focused developer building and deploying APIs (FastAPI, Docker, GCP)  
+Backend-focused developer building and deploying APIs with FastAPI, Docker & GCP
 2nd year Business Information Technology student
 
 ## Projects
 
-🔹 Book API (FastAPI)  
-REST API with JWT auth, Docker, deployed on GCP
+🔹 [Book API (FastAPI)](https://github.com/username/book-api-fastapi)   
+REST API with JWT auth, Docker, deployed on GCP VM
 
 🔹 Finance Dashboard  
 React + TypeScript expense tracking app
@@ -21,8 +21,8 @@ App with smart settlement logic
 
 ## Tech
 Python, FastAPI, SQLModel, SQLite  
-React, TypeScript, TailwindCSS  
-Docker, Git, GCP
+Docker, Git, GCP  
+React, TypeScript, TailwindCSS
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=waltterir&theme=tokyonight)
