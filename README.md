@@ -1,18 +1,28 @@
 # Hey, I'm Wate 👋
 
-Backend-focused developer building APIs and systems.  
-2nd year Business Information Technology student.
+Backend-focused developer building and deploying APIs (FastAPI, Docker, GCP)  
+2nd year Business Information Technology student
+
+## Projects
+
+🔹 Book API (FastAPI)  
+REST API with JWT auth, Docker, deployed on GCP
+
+🔹 Finance Dashboard  
+React + TypeScript expense tracking app
+
+🔹 Expense Splitter  
+App with smart settlement logic
 
 ## Currently
-- Building and deploying a REST API (FastAPI + SQLModel + SQLite) on GCP VM  
-- Learning backend architecture and cloud deployment 
-- Developing a Personal Finance Dashboard (React + TypeScript)
-  
-## Tech Stack
+- Building & deploying REST API on GCP VM
+- Learning backend architecture & cloud
+- Developing Finance Dashboard
 
-**Frontend:**  React, TypeScript, TailwindCSS  
-**Backend:**  Python, FastAPI, SQLModel, SQLite  
-**Tools:**  Git, Docker, GCP, Figma
+## Tech
+Python, FastAPI, SQLModel, SQLite  
+React, TypeScript, TailwindCSS  
+Docker, Git, GCP
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=waltterir&theme=tokyonight)
