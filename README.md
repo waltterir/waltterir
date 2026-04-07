@@ -10,7 +10,7 @@ Backend-focused developer building and deploying APIs with FastAPI, Docker & GCP
 REST API with JWT auth, Docker, deployed on GCP VM
 
 🔹 Finance Dashboard  
-React + TypeScript expense tracking app
+React + TypeScript expense tracking app (early MVP)
 
 🔹 Expense Splitter  
 App with smart settlement logic
