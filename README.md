@@ -1,8 +1,10 @@
-# Hey, I'm Wate 👋
+# Hey, I'm Wate👋
 
 Backend-focused developer building and deploying APIs with FastAPI, Docker & GCP
 
 2nd year Business Information Technology student
+
+Outside coding, I enjoy skateboarding, sports, and expressing myself in different ways.
 
 ## Projects
 
