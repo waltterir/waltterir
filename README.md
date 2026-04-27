@@ -5,11 +5,12 @@ Backend-focused developer building APIs and deploying them with Docker and GCP.
 2nd year Business Information Technology student
 
 ## Projects
+
 🔹Return to Training API (in progress)
 REST API for helping former athletes rebuild training routines through check-ins and rule-based recommendations.
 Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
 
-🔹 [Book API (FastAPI)](https://github.com/username/book-api-fastapi)   
+🔹Book API
 REST API with JWT auth, containerized and deployed on GCP VM.
 FastAPI, Docker, GCP
 
