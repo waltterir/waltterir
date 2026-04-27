@@ -24,7 +24,7 @@ Backend-focused developer building APIs and deploying them with Docker and GCP.
 - Developing Return to Training API
 
 ## Tech
-Python, FastAPI, SQLModel, SQLite, PostgreSQL
+Python, FastAPI, SQLModel, SQLite, PostgreSQL,
 Docker, Git, GCP  
 
 
