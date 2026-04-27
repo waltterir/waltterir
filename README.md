@@ -1,30 +1,29 @@
 # Hey, I'm Wate👋
 
-Backend-focused developer building and deploying APIs with FastAPI, Docker & GCP
+Backend-focused developer building APIs and deploying them with Docker and GCP.
 
 2nd year Business Information Technology student
 
 ## Projects
+🔹Return to Training API (in progress)
+REST API for helping former athletes rebuild training routines through check-ins and rule-based recommendations.
+Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
 
 🔹 [Book API (FastAPI)](https://github.com/username/book-api-fastapi)   
-REST API with JWT auth, Docker, deployed on GCP VM
+REST API with JWT auth, containerized and deployed on GCP VM.
+FastAPI, Docker, GCP
 
-🔹 Finance Dashboard  
-React + TypeScript expense tracking app (early MVP)
-
-🔹 Expense Splitter  
-App with smart settlement logic
-
-## Currently
-- Building & deploying REST API on GCP VM
-- Learning backend architecture & cloud
-- Developing Finance Dashboard
-
-## Tech
-Python, FastAPI, SQLModel, SQLite  
-Docker, Git, GCP  
+🔹 Expense Splitter (Frontend)
+Expense sharing app with smart settlement logic and interactive UI.
 React, TypeScript, TailwindCSS
 
+## Currently
+- Building and deploying APIs on GCP
+- Learning backend architecture and system design
+- Developing Return to Training API
 
-![GitHub Streak](https://streak-stats.demolab.com?user=waltterir&theme=tokyonight)
+## Tech
+Python, FastAPI, SQLModel, SQLite, PostgreSQL
+Docker, Git, GCP  
+
 
