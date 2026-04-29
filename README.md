@@ -12,7 +12,7 @@ Backend-focused developer building APIs and deploying them with Docker and GCP.
 
 🔹Book API
 - REST API with JWT auth, containerized and deployed on GCP VM.
-- Python, FastAPI, SQLite, Docker, GCP
+- Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
