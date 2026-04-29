@@ -8,11 +8,11 @@ Backend-focused developer building APIs and deploying them with Docker and GCP.
 
 🔹Return to Training API (in progress)
 - REST API for helping former athletes rebuild training routines through check-ins and rule-based recommendations.
-- Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
+- Python, FastAPI, PostgreSQL, SQLModel, Docker, GCP
 
 🔹Book API
 - REST API with JWT auth, containerized and deployed on GCP VM.
-- FastAPI, Docker, GCP
+- Python, FastAPI, SQLite, Docker, GCP
 
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
