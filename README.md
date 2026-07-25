@@ -1,6 +1,6 @@
 # Hey, I'm Wate👋
 
-Backend-focused developer building APIs and deploying them with Docker and GCP, with a growing interest in integration development.
+Backend-focused developer building APIs and deploying them with Docker and GCP, with a growing interest in integration development and AWS.
 
 3rd year Business Information Technology student
 
