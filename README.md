@@ -1,6 +1,7 @@
 # Hey, I'm Wate👋
 
-Backend-focused developer building APIs and deploying them with Docker and GCP, with a growing interest in integration development and AWS.
+Backend-focused developer building APIs and deploying them with Docker and GCP, 
+with hands-on experience in integrations (MuleSoft Anypoint) and a growing interest in AWS.
 
 3rd year Business Information Technology student
 
