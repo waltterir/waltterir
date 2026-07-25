@@ -14,6 +14,10 @@ Backend-focused developer building APIs and deploying them with Docker and GCP, 
 - REST API with JWT auth, containerized and deployed on GCP VM.
 - Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
+🔹Anturi API
+- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement) and full CRUD support. Backend course capstone project.
+- Python, FastAPI, SQLModel, SQLite
+
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
 - React, TypeScript, TailwindCSS
