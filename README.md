@@ -25,7 +25,9 @@ Backend-focused developer building APIs and deploying them with Docker and GCP, 
 ## Currently
 - Building and deploying APIs on GCP
 - Learning backend architecture and system design
+- Extending MuleSoft integration skills (Anypoint, CloudHub)
 - Developing Return to Training API
+  
 
 ## Tech
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
