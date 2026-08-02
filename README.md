@@ -32,6 +32,6 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 
 ## Tech
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
-Docker, Git, GCP  
+Docker, Git, GCP, MuleSoft
 
 
