@@ -15,19 +15,19 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 - REST API with JWT auth, containerized and deployed on GCP VM.
 - Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
-🔹Anturi API
+🔹Anturi API 
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement) and full CRUD support. Backend course capstone project.
 - Python, FastAPI, SQLModel, SQLite
+- Currently writing tests with pytest
 
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
 - React, TypeScript, TailwindCSS
 
 ## Currently
-- Building and deploying APIs on GCP
+- Building and deploying APIs
 - Learning backend architecture and system design
 - Extending MuleSoft integration skills (Anypoint, CloudHub)
-- Developing Return to Training API
   
 
 ## Tech
