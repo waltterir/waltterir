@@ -21,6 +21,7 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 #### Currently:
 - Changing Sqlite to PostgreSQL
 - Implement integration to project
+- Contarize project with Docker
 - Deploy to AWS
 
 🔹 Expense Splitter (Frontend)
