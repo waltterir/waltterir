@@ -18,7 +18,10 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 🔹Anturi API 
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement) and full CRUD support. Backend course capstone project.
 - Python, FastAPI, SQLModel, SQLite
-- Currently writing tests with pytest
+Next:
+- Changing Sqlite to PostGreSQL
+- Implement integration to project
+- Deploy to AWS
 
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
