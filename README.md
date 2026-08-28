@@ -16,12 +16,10 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 - Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
 🔹Anturi API 
-- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement) and full CRUD support. Backend course capstone project.
-- Python, FastAPI, SQLModel, SQLite
+- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized.
+- Python, FastAPI, SQLModel, PostgreSQL, Docker
 #### Currently:
-- Changing Sqlite to PostgreSQL
 - Implement integration to project
-- Contarize project with Docker
 - Deploy to AWS
 
 🔹 Expense Splitter (Frontend)
