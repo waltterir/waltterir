@@ -7,19 +7,20 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 
 ## Projects
 
-🔹Return to Training API (in progress)
-- REST API for helping former athletes rebuild training routines through check-ins and rule-based recommendations.
-- Python, FastAPI, PostgreSQL, SQLModel, Docker, GCP
-
-🔹Book API
-- REST API with JWT auth, containerized and deployed on GCP VM.
-- Python, FastAPI, SQLite, SQLModel, Docker, GCP
-
 🔹Anturi API 
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and  deployed on AWS.
 - Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, AWS
 #### Next steps:
 - Add polling flow integration, which checks sensory error states.
+
+🔹Book API
+- REST API with JWT auth, containerized and deployed on GCP VM.
+- Python, FastAPI, SQLite, SQLModel, Docker, GCP
+
+🔹Return to Training API (in progress)
+- REST API for helping former athletes rebuild training routines through check-ins and rule-based recommendations.
+- Python, FastAPI, PostgreSQL, SQLModel, Docker, GCP or AWS
+
 
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
@@ -29,6 +30,7 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 - Building and deploying APIs
 - Learning backend architecture and system design
 - Extending MuleSoft integration skills (Anypoint, CloudHub)
+- Extending AWS Knowledge
   
 
 ## Tech
