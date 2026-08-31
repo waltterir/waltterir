@@ -16,10 +16,10 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 - Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
 🔹Anturi API 
-- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized.
-- Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker
+- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and  deployed on AWS.
+- Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, AWS
 #### Next steps:
-- Deploy to AWS
+- Add polling flow integration, which checks sensory error states.
 
 🔹 Expense Splitter (Frontend)
 - Expense sharing app with smart settlement logic and interactive UI.
@@ -33,6 +33,6 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 
 ## Tech
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
-Docker, Git, GCP, MuleSoft
+Docker, Git, GCP, MuleSoft, AWS
 
 
