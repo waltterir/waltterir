@@ -20,7 +20,7 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 
 🔹Return to Training API (in progress)
 - REST API for helping former athletes rebuild training routines through check-ins and rule-based recommendations.
-- Python, FastAPI, PostgreSQL, SQLModel, Docker, GCP or AWS
+- Python, FastAPI, PostgreSQL, SQLModel, Docker
 
 
 🔹 Expense Splitter (Frontend)
