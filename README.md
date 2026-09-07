@@ -12,7 +12,7 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 - Built a MuleSoft integration that polls the API for sensor state changes and sends real-time alert/recovery notifications to Slack.
 - MuleSoft Anypoint Studio, DataWeave, Slack Incoming Webhooks
   #### Update idea:
-    - Thinking switching pulling to push, sensor sends alert when error/normal
+    - Switching polling to push.
 
 🔹Book API
 - REST API with JWT auth, containerized and deployed on GCP VM.
