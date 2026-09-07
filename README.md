@@ -7,11 +7,11 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 
 ## Projects
 
-🔹Anturi API 
-- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and  deployed on AWS.
+🔹 Anturi API
+- REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and deployed on AWS.
 - Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, AWS
-#### Next steps:
-- Add polling flow integration, which checks sensory error states.
+- Built a MuleSoft integration that polls the API for sensor state changes and sends real-time alert/recovery notifications to Slack.
+- MuleSoft Anypoint Studio, DataWeave, Slack Incoming Webhooks
 
 🔹Book API
 - REST API with JWT auth, containerized and deployed on GCP VM.
@@ -35,6 +35,6 @@ with hands-on experience in integrations (MuleSoft Anypoint) and a growing inter
 
 ## Tech
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
-Docker, Git, GCP, MuleSoft, AWS
+Docker, Git, GCP, MuleSoft, AWS, Slack
 
 
