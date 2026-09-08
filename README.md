@@ -30,6 +30,6 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 
 ## Tech
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
-Docker, Git, GCP, MuleSoft, AWS, Slack
+Docker, Git, GCP, MuleSoft, AWS, Slack, CloudHub
 
 
