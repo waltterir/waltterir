@@ -9,11 +9,9 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 🔹 Anturi API
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and deployed on AWS.
 - Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, AWS
-- Built a MuleSoft integration that polls the API for sensor state changes and sends real-time alert/recovery notifications to Slack.
+- Built a MuleSoft integration that polls the API for sensor state changes and sends real-time alert/recovery notifications to Slack, deployed to CloudHub.
 - MuleSoft Anypoint Studio, DataWeave, Slack Incoming Webhooks
-  #### Update idea:
-    - Deploy to CloudHub
-    - Switching polling to push.
+ 
 
 🔹Book API
 - REST API with JWT auth, containerized and deployed on GCP VM.
