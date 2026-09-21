@@ -4,7 +4,7 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 
 3rd year Business Information Technology student
 
-## Projects
+***MAIN PROJECTS:***
 
 🔹 [Anturi API](https://github.com/KAYTTAJANIMI/anturi-api)
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and deployed on AWS.
