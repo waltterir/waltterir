@@ -4,7 +4,7 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 
 3rd year Business Information Technology student
 
-***MAIN PROJECTS:***
+***PROJECTS:***
 
 🔹 [Anturi API](https://github.com/KAYTTAJANIMI/anturi-api)
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and deployed on AWS.
@@ -13,11 +13,11 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 - MuleSoft Anypoint Studio, DataWeave, Slack Incoming Webhooks, CloudHub
  
 
-🔹Book API
+🔹[Book API](https://github.com/waltterir/book-api-fastapi)
 - REST API with JWT auth, containerized and deployed on GCP VM.
 - Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
-🔹 Expense Splitter (Frontend)
+🔹 [Expense Splitter (Frontend)](https://github.com/waltterir/smart-expense-splitter)
 - Expense sharing app with smart settlement logic and interactive UI.
 - React, TypeScript, TailwindCSS
 
