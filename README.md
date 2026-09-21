@@ -6,14 +6,14 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 
 ***PROJECTS:***
 
-🔹 **[Anturi API](https://github.com/waltterir/anturi-api)**
+**[Anturi API](https://github.com/waltterir/anturi-api)**
 - REST API for temperature sensor data with relational modeling (Block → Sensor → Measurement), containerized and deployed on AWS.
 - Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, AWS
 - Built a MuleSoft integration that polls the API for sensor state changes and sends real-time alert/recovery notifications to Slack, deployed to CloudHub.
 - MuleSoft Anypoint Studio, DataWeave, Slack Incoming Webhooks, CloudHub
  
 
-🔹**[Book API](https://github.com/waltterir/book-api-fastapi)**
+**[Book API](https://github.com/waltterir/book-api-fastapi)**
 - REST API with JWT auth, containerized and deployed on GCP VM.
 - Python, FastAPI, SQLite, SQLModel, Docker, GCP
 
