@@ -19,7 +19,7 @@
 
 **[Expense Splitter (Frontend)](https://github.com/waltterir/smart-expense-splitter)** 
 - Expense sharing app with smart settlement logic and interactive UI.
-  - **Tech Stack:** React, TypeScript, TailwindCSS
+  - ***Tech Stack:*** React, TypeScript, TailwindCSS
 
 ***TECH:***
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
