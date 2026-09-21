@@ -21,7 +21,7 @@ Backend-focused developer building APIs and deploying them with Docker on both G
 - Expense sharing app with smart settlement logic and interactive UI.
 - React, TypeScript, TailwindCSS
 
-## *Tech*
+## ***Tech***
 Python, FastAPI, SQLModel, SQLite, PostgreSQL,
 Docker, Git, GCP, MuleSoft, AWS, Slack, CloudHub
 
