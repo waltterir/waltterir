@@ -1,6 +1,6 @@
 ## ***Hey, I'm Wate👋***
 
-*I build backend APIs and deploy them to the cloud with Docker on GCP and AWS, and I work with integrations using MuleSoft Anypoint. What interests me most is architecture: designing how services, integrations and cloud infrastructure fit together.*
+*Building backend APIs and deploying them with Docker on GCP and AWS, with hands-on experience in integrations using MuleSoft Anypoint. Especially interested in architecture: how services, integrations and cloud infrastructure fit together.*
 
 ***CURRENTLY:***
 - Learning Terraform (IaC) and applying it to my Anturi-API project
