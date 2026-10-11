@@ -2,6 +2,10 @@
 
 *Backend-focused developer building APIs and deploying them with Docker on both GCP and AWS, with hands-on experience in integrations (MuleSoft Anypoint).*
 
+***CURRENTLY:***
+- Learning Terraform (IaC) and applying it to my Anturi-API project
+- Completing AWS Cloud Practitioner Essentials (AWS Skill Builder)
+
 *3rd year Business Information Technology student*
 
 ***PROJECTS:***
