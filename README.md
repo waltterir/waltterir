@@ -1,6 +1,6 @@
 ## ***Hey, I'm Wate👋***
 
-*Backend-focused developer building APIs and deploying them with Docker on both GCP and AWS, with hands-on experience in integrations (MuleSoft Anypoint).*
+*Cloud/Backend-focused developer building APIs and deploying them with Docker on both GCP and AWS, with hands-on experience in integrations (MuleSoft Anypoint).*
 *Interested in system architecture, from APIs to infrastructure* 
 
 ***CURRENTLY:***
