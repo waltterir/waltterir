@@ -4,7 +4,7 @@
 
 ***CURRENTLY:***
 
-- Building a CI/CD pipeline with GitHub Actions for my Anturi API project
+- Automating deployments with GitHub Actions for my Anturi API project
 - Completing AWS Cloud Practitioner Essentials (AWS Skill Builder)
 
 *3rd year Business Information Technology student*
@@ -17,6 +17,8 @@
   - ***Tech Stack:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker
 - AWS infrastructure as code with Terraform: ECS Fargate behind an ALB, RDS in a private network, database password in Secrets Manager. The full environment is created and destroyed with one command.
   - ***Tech Stack:*** Terraform, AWS (ECS Fargate, RDS, ALB, ECR, IAM, Secrets Manager, S3)
+- CI with GitHub Actions: tests and Terraform format and validation checks run on every push and pull request.
+  - ***Tech Stack:*** GitHub Actions
 - MuleSoft integration that polls the API for sensor state changes and sends real-time alert/recovery notifications to Slack, deployed to CloudHub.
   - ***Tech Stack:*** MuleSoft Anypoint Studio, DataWeave, Slack Incoming Webhooks, CloudHub
 
@@ -30,5 +32,5 @@
 - Expense sharing app with smart settlement logic and interactive UI.
   - ***Tech Stack:*** React, TypeScript, TailwindCSS
 
-***TECH:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, Terraform, Git, AWS, GCP, MuleSoft, Slack, CloudHub
+***TECH:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, Terraform, GitHub Actions, Git, AWS, GCP, MuleSoft, Slack, CloudHub
 
