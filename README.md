@@ -1,6 +1,6 @@
 ## Hey, I'm Wate 👋
 
-*Developer in the making, working across backend, cloud and integrations. I like building APIs, shipping them to the cloud and figuring out how all the pieces fit together.*
+*Developer in the making, working across backend, cloud and integrations. Fascinated by how all the pieces fit together, from APIs to the infrastructure they run on.*
 
 ***CURRENTLY:***
 - Automating deployments with GitHub Actions for my Anturi API project
