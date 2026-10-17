@@ -16,3 +16,7 @@
 
 ***TECH:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, Terraform, GitHub Actions, Git, AWS, GCP, MuleSoft, Slack, CloudHub
 
+### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waltteri-riihim%C3%A4ki-ba0323364)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://waltteri.dev)
