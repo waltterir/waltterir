@@ -10,7 +10,7 @@
 
 ***PROJECTS:***
 
-- **[Anturi API](link)**: sensor data API running on AWS (Fargate, RDS), all infra in Terraform, CI with GitHub Actions, and MuleSoft sending alerts to Slack
+- **[Anturi API](https://github.com/waltterir/anturi-api)**: sensor data API running on AWS (Fargate, RDS), all infra in Terraform, CI with GitHub Actions, and MuleSoft sending alerts to Slack
 - **[Book API](link)**: FastAPI + JWT auth, Dockerized on a GCP VM
 - **[Expense Splitter](link)**: React/TypeScript app with smart settlement logic
 - **[Golfbotti](link)**: Python/n8n
