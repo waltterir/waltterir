@@ -13,6 +13,7 @@
 - **[Anturi API](link)**: sensor data API running on AWS (Fargate, RDS), all infra in Terraform, CI with GitHub Actions, and MuleSoft sending alerts to Slack
 - **[Book API](link)**: FastAPI + JWT auth, Dockerized on a GCP VM
 - **[Expense Splitter](link)**: React/TypeScript app with smart settlement logic
+- **[Golfbotti](link)**: Python/n8n
 
 ***TECH:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, Terraform, GitHub Actions, Git, AWS, GCP, MuleSoft, Slack, CloudHub
 
