@@ -11,11 +11,11 @@
 ***PROJECTS:***
 
 - **[Anturi API](https://github.com/waltterir/anturi-api)**: sensor data API running on AWS (Fargate, RDS), all infra in Terraform, CI with GitHub Actions, and MuleSoft sending alerts to Slack
-- **[Book API](link)**: FastAPI + JWT auth, Dockerized on a GCP VM
-- **[Expense Splitter](link)**: React/TypeScript app with smart settlement logic
-- **[Golfbotti](link)**: Python/n8n
+- **[Book API](https://github.com/waltterir/book-api-fastapi)**: FastAPI + JWT auth, Dockerized on a GCP VM
+- **[Expense Splitter](https://github.com/waltterir/smart-expense-splitter)**: React/TypeScript app with smart settlement logic
+- **[Golfbotti](https://github.com/waltterir/golfbotti)**: Golf weather bot built with Python and n8n, turning FMI open data into a golf index and picking the best time to play
 
-***TECH:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, Terraform, GitHub Actions, Git, AWS, GCP, MuleSoft, Slack, CloudHub
+***TECH:*** Python, FastAPI, SQLModel, SQLite, PostgreSQL, Docker, Terraform, GitHub Actions, Git, AWS, GCP, MuleSoft, Slack, CloudHub, n8n
 
 ### Let's connect!
 
