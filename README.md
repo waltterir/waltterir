@@ -6,7 +6,7 @@
 - Automating Anturi API deployments with GitHub Actions
 - Learning Azure by building Golfbotti's infrastructure
 
-*3rd year Business Information Technology student*
+*Final year Business Information Technology student*
 
 ***PROJECTS:***
 
