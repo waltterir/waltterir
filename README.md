@@ -3,8 +3,8 @@
 *Developer in the making, working across backend, cloud and integrations. Fascinated by how all the pieces fit together, from APIs to the infrastructure they run on.*
 
 ***CURRENTLY:***
-- Automating deployments with GitHub Actions for my Anturi API project
-- Learning Azure as part of Golfbotti's infra
+- Automating Anturi API deployments with GitHub Actions
+- Learning Azure by building Golfbotti's infrastructure
 
 *3rd year Business Information Technology student*
 
