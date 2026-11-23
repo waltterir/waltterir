@@ -4,7 +4,7 @@
 
 ***CURRENTLY:***
 - Automating deployments with GitHub Actions for my Anturi API project
-- Completing AWS Cloud Practitioner Essentials (AWS Skill Builder)
+- Learning Azure as part of Golfbotti's infra
 
 *3rd year Business Information Technology student*
 
